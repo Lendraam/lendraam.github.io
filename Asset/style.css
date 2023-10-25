@@ -1,8 +1,9 @@
-{
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", times new roman;
+  font-family: "Poppins", 'Times New Roman';
 }
 body {
   height: 100vh;
@@ -25,7 +26,7 @@ body {
   width: 100%;
   outline: 20%;
   border: 20%;
-  text-align: Left;
+  text-align: left;
   margin-bottom: 10px;
   font-size: 25px;
   color: #000e1a;
@@ -42,11 +43,12 @@ body {
   border: 20%;
   font-size: 20px;
   cursor: pointer;
-  background-color: #b2ecfa;
+  background-color: #a3e1fa;
 }
 .buttons button:active {
   transform: scale(0.99);
 }
 .operator {
-  color: hsl(200, 100%, 1%);
+  color: #0d8af7;
 }
+<p style="text-align:center"> Belajar pemrograman web di www.malasngoding.com </p>
